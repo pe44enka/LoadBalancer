@@ -4,7 +4,7 @@
 This notebook is created as a part of **Crush course on Python** by Google and supposed to create a Load Balancer that ensure system has enough available servers to serve incoming connections.
 
 ### Objectives
-Imagine you have a cloud and you have to manage it such a way that there are enough servers to serve incoming connections. To automate this process you need to create Load Balancer.
+Imagine you have a cloud and you have to manage it such a way that there are enough available servers to serve incoming connections. Load Balancer will help you to automate this proceess.
 
 ### Goal of the project
 To create a Load Balancer that ensures that load of each server wouldn't exceed 50% and add more servers in other case.
